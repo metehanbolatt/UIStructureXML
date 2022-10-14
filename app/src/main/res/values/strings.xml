@@ -2,6 +2,9 @@
     <string name="app_name">UIStructureXML</string>
 
     <!-- Calorie Counter UI -->
+    <string name="protein">P</string>
+    <string name="fats">F</string>
+    <string name="carbs">C</string>
     <string name="total_calorie">295.5</string>
     <string name="total_calorie_text">of 1200 kcal</string>
     <string name="proteins_gr">Proteins, gr</string>
@@ -13,5 +16,25 @@
     <string name="carbs_gr">Carbs, gr</string>
     <string name="carbs_amount">7.5</string>
     <string name="carbs_amount_total">of 28.7</string>
-
+    <string name="breakfast">Breakfast</string>
+    <string name="breakfast_calorie">295.5 kcal</string>
+    <string name="gr_390">390 gr</string>
+    <string name="breakfast_protein_amount">19.5 gr</string>
+    <string name="breakfast_fats_amount">7.5 gr</string>
+    <string name="breakfast_carbs_amount">37.7</string>
+    <string name="corn_image">🌽</string>
+    <string name="oat_milk">Oat milk</string>
+    <string name="oat_milk_ml">150 ml</string>
+    <string name="oat_milk_calorie">66 kcal</string>
+    <string name="orange_image">🍊</string>
+    <string name="orange_juice">Orange juice</string>
+    <string name="orange_juice_ml">80 ml</string>
+    <string name="orange_juice_calorie">28.8 kcal</string>
+    <string name="cheese_image">🧀</string>
+    <string name="cheese">Cheese</string>
+    <string name="cheese_gr">110 gr</string>
+    <string name="cheese_calorie">200.7 kcal</string>
+    <string name="button_text">Add</string>
+    <string name="lunch">Lunch</string>
+    <string name="recommended_lunch_calorie">Recommended 600 kcal</string>
 </resources>
