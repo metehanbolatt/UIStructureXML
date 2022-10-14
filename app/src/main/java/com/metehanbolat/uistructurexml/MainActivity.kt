@@ -2,7 +2,6 @@ package com.metehanbolat.uistructurexml
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
-import com.metehanbolat.uistructurexml.databinding.ActivityMainBinding
 import com.metehanbolat.uistructurexml.databinding.CalorieCounterUiBinding
 
 class MainActivity : AppCompatActivity() {

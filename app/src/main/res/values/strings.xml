@@ -1,3 +1,17 @@
 <resources>
     <string name="app_name">UIStructureXML</string>
+
+    <!-- Calorie Counter UI -->
+    <string name="total_calorie">295.5</string>
+    <string name="total_calorie_text">of 1200 kcal</string>
+    <string name="proteins_gr">Proteins, gr</string>
+    <string name="protein_amount">19.5</string>
+    <string name="protein_amount_total">of 97</string>
+    <string name="fats_gr">Fats, gr</string>
+    <string name="fats_amount">7.5</string>
+    <string name="fats_amount_total">of 28.7</string>
+    <string name="carbs_gr">Carbs, gr</string>
+    <string name="carbs_amount">7.5</string>
+    <string name="carbs_amount_total">of 28.7</string>
+
 </resources>
